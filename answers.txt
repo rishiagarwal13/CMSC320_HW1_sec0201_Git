@@ -1,3 +1,7 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: One field that data science could be applied to is healthcare. Another is finance. 
+
 Q1: Why might we consider using Git?
 
 Answer: We might consider using Git so enigneers can make changes to the same repository/codebase at the same time, allowing for faster development. 
